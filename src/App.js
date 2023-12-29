@@ -39,7 +39,7 @@ const cardsList = [
 const App = () => (
   <div className="mainContainer">
     <h1 className="heading">Learn 4.0 Technologies</h1>
-    <p className="paragraph">
+    <p className="para">
       Get trained by alumni of IITs and Top companies like Amazon,
       Microsft,intel Nvidia,Qualcom,etc.Learn directly form professionals
       involved in product Development
