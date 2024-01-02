@@ -1,3 +1,5 @@
+// Write your code here.
+
 import './index.css'
 
 const Card = props => {
@@ -15,4 +17,3 @@ const Card = props => {
 }
 
 export default Card
-
